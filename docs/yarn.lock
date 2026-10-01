@@ -669,9 +669,7 @@
     fastq "^1.6.0"
 
 "@notionhq/client@^2.2.3":
-  version "2.2.8"
-  resolved "https://registry.npmjs.org/@notionhq/client/-/client-2.2.8.tgz"
-  integrity sha512-tRA6fqi9CgeWFyBA4NLU4OLAqETxCO44J6R9fv93kJQtYDNiQ5IB5Oqz7kC+vLT6Mlxc2zqrJa5rgzLfRnbiSA==
+  version "2.2.9"
   dependencies:
     "@types/node-fetch" "^2.5.10"
     node-fetch "^2.6.1"
